@@ -1,6 +1,6 @@
 # ML_Project
 
-Objectives: 
+## Objectives: 
 
 Identify geographical areas within the dataset characterized by both a high median income and an elevated average number of rooms
 
