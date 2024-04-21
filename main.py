@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import plotly.express as px
 from scipy import stats
+import seaborn as sns
 
 #load the dataset
 california_housing = fetch_california_housing(as_frame=True)
