@@ -1,11 +1,12 @@
 # ML_Project
 
+# Ben
+ - run ben_notebook.ipynb to see Objective 1
+
 ## Objectives: 
 
-# Identify geographical areas within the dataset characterized by both a high median income and an elevated average number of rooms
+# 1. Identify geographical areas within the dataset characterized by both a high median income and an elevated average number of rooms
 
-# Identify latitude and longitude ranges with the lowest and greatest median house values
+# 2. Identify geographical areas with high median income and median house value 
 
-# Identify geographical areas with high median income and median house value 
-
-# Identify geographical areas with that maximize median house value and population
+# 3. Identify geographical areas with that maximize median house value and population
